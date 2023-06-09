@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OASE Simple App</string>
+
+    <string name="tv_sentiment">Sentiment</string>
+    <string name="tv_accurate_score">Accurate\nScore</string>
+
+
+    <string name="save_bookmark">Save Bookmark?</string>
+</resources>
